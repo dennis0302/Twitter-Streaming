@@ -43,7 +43,7 @@ Click Credentials to get full access URL
 Copy the entire URL 
 ```
 
-Fill hostname, username and password TwitterConsumer.java using the URL
+Fill hostname, username and password TwitterConsumer.java from the URL
 
 ```
 String hostname = "";
